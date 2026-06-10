@@ -135,40 +135,6 @@ FoundHer AI is an AI-powered startup companion designed specifically for women e
 | **`vite.config.ts`** | Core bundler configuration file for the Vite development environment. |
 ---
 
-# 🚀 Getting Started
-
-## Clone Repository
-
-```bash
-git clone https://github.com/techiee-jhalak/FoundHer-AI.git
-cd FoundHer-AI
-```
-
-## Install Dependencies
-
-```bash
-npm install
-```
-
-## Run Development Server
-
-```bash
-npm run dev
-```
-
-## Build Project
-
-```bash
-npm run build
-```
-
-## Preview Production Build
-
-```bash
-npm run preview
-```
-
----
 
 # 🛣️ Product Roadmap
 
